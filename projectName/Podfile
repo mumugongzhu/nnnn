@@ -1,0 +1,5 @@
+
+platfrom :ios,'9.0'
+target'projectName'
+pod 'AFNetworking'
+end
